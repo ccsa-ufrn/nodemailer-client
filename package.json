@@ -1,0 +1,23 @@
+{
+  "name": "nodemailer-client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ccsa-ufrn/nodemailer-client.git"
+  },
+  "author": "Thayrone Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ccsa-ufrn/nodemailer-client/issues"
+  },
+  "homepage": "https://github.com/ccsa-ufrn/nodemailer-client#readme",
+  "dependencies": {
+    "amqplib": "^0.5.2",
+    "nodemailer": "^4.4.0"
+  }
+}
